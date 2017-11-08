@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\surve\OneDrive\Adevole\Library\android-calendar-view-master\app\build\intermediates\exploded-aar\com.joybar.calendar\librarycalendar\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="31a8605b9eb21be9efd10426c0579511e2b57d35">
+        <dex dex="C:\Users\surve\OneDrive\Adevole\Library\android-calendar-view-master\app\build\intermediates\pre-dexed\debug\com.joybar.calendar-librarycalendar-1.0.5_0acd84bad20974e39b86288ad8decd8a47076718.jar" />
+    </item>
+
+</items>
